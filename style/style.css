@@ -28,6 +28,15 @@ p{
 body{
     background-color: white;
 }
+body {
+
+    background-image: url("images/cronch.gif.gif");
+    
+    background-repeat: repeat;
+    
+    background-size: cover;
+    
+    }
 
 .gato{
     display:block;
@@ -35,6 +44,14 @@ body{
     margin-right:auto;
     border: 5px solid white;
     width:500px;
+    height:400px;
+}
+.otheranimals{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border: 10px solid white;
+    width:600px;
     height:400px;
 }
 .cake{
