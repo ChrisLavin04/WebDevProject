@@ -37,6 +37,9 @@ body {
     background-size: cover;
     
     }
+p{
+    font-size: 13px;
+}
 
 .gato{
     display:block;
